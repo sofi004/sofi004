@@ -2,7 +2,7 @@
 
 - 🎓 Bsc in Computer Science and Engineering @ Instituto Superior Técnico
 - 🌱 Doing a master's degree in Computer Science and Engineering @ Instituto Superior Técnico
-- 👩🏻‍💻 Internship at Avanade
+- 👩🏻‍💻 Internship at Avanade, Working at JamHub Solutions
 - 🐧 Contributions to SuperTux game
 
 ##
