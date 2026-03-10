@@ -1,8 +1,8 @@
 ## Hi, I'm Sofia Piteira
 
 - 🎓 Bsc in Computer Science and Engineering @ Instituto Superior Técnico
-- 🌱 Doing a master's degree in Computer Science and Engineering @ Instituto Superior Técnico
-- 👩🏻‍💻 Internship at Avanade, Working at JamHub Solutions
+- 🌱 Doing a master's degree in Computer Science and Engineering (AI and CyberSecurity) @ Instituto Superior Técnico
+- 👩🏻‍💻 Internship at Avanade and JamHub Solutions
 - 🐧 Contributions to SuperTux game
 
 ##
